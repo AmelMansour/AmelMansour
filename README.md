@@ -7,7 +7,7 @@ I am passionate about the analysis and interpretation of large-scale biological 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/amal.mansour.31149) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-mansour-)
 
-- 👨‍💻 All of my projects are available at [amelmansour.github.io/Portfolio/](amelmansour.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [AmelMansour.github.io/Portfolio/](AmelMansour.github.io/Portfolio/)
 
 
 # 💻 Tech Stack:
