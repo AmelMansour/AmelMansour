@@ -16,6 +16,62 @@
 
 <p>👨‍💻 All of my projects are available at <a href="https://AmelMansour.github.io/Portfolio/">AmelMansour.github.io/Portfolio/</a></p>
 
+<h3 align="center">🔝 My Recent GitHub Projects</h3>
+
+<table align="center" border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th><b>🎁 Project</b></th>
+      <th><b>📅 Last Update</b></th>
+      <th><b>📝 Language</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Portfolio" target="_blank">Portfolio</a></td>
+      <td>Updated 9 minutes ago</td>
+      <td>CSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Empowering-Early-Detection-Innovative-Computer-Aided-Detection-System-for-Breast-Cancer-Diagnosis" target="_blank">Empowering Early Detection</a></td>
+      <td>Updated 1 minute ago</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Breast-Cancer-Prediction" target="_blank">Breast Cancer Prediction</a></td>
+      <td>Updated 3 days ago</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Carcinogenicity_Prediction" target="_blank">Carcinogenicity Prediction</a></td>
+      <td>Updated last week</td>
+      <td>Jupyter Notebook</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Development-of-Prediction-Models-for-Hepatitis-C" target="_blank">Prediction Models for Hepatitis C</a></td>
+      <td>Updated last week</td>
+      <td>Jupyter Notebook</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Infectious-disease-transmission-model" target="_blank">Infectious Disease Model</a></td>
+      <td>Updated on Feb 11, 2024</td>
+      <td>NetLogo</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Protein-Homology-Modeling" target="_blank">Protein Homology Modeling</a></td>
+      <td>Updated on Jan 8, 2024</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AmelMansour/Sequence-Alignment-Web-Interface" target="_blank">Sequence Alignment Web Interface</a></td>
+      <td>Updated on Jan 8, 2024</td>
+      <td>HTML</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <h3>💻 Tech Stack:</h3>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
