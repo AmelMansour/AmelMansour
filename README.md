@@ -13,42 +13,6 @@
   </a>
 </p>
 
-<h3>Open source projects</h3>
-<table align="center">
-  <thead>
-    <tr>
-      <th><b>🎁 Projects</b></th>
-      <th><b>⭐ Stars</b></th>
-      <th><b>📚 Forks</b></th>
-      <th><b>🛎 Issues</b></th>
-      <th><b>📬 Pull requests</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/AmelMansour/project1">Project 1</a></td>
-      <td>120</td>
-      <td>45</td>
-      <td>5</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/AmelMansour/project2">Project 2</a></td>
-      <td>95</td>
-      <td>30</td>
-      <td>3</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/AmelMansour/project3">Project 3</a></td>
-      <td>150</td>
-      <td>60</td>
-      <td>7</td>
-      <td>5</td>
-    </tr>
-  </tbody>
-</table>
-
 
 <p>👨‍💻 All of my projects are available at <a href="https://AmelMansour.github.io/Portfolio/">AmelMansour.github.io/Portfolio/</a></p>
 
