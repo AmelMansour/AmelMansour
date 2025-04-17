@@ -21,17 +21,11 @@
 <table align="center" border="1" cellpadding="10">
   <thead>
     <tr>
-      <th><b>🎁 Project</b></th>
-      <th><b>📅 Last Update</b></th>
+      <th><b>🎁 Project</b></th
       <th><b>📝 Language</b></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/AmelMansour/Portfolio" target="_blank">Portfolio</a></td>
-      <td>Updated 9 minutes ago</td>
-      <td>CSS</td>
-    </tr>
     <tr>
       <td><a href="https://github.com/AmelMansour/Empowering-Early-Detection-Innovative-Computer-Aided-Detection-System-for-Breast-Cancer-Diagnosis" target="_blank">Empowering Early Detection</a></td>
       <td>Updated 1 minute ago</td>
