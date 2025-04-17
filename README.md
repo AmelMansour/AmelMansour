@@ -22,7 +22,7 @@
   <thead>
     <tr>
       <th><b>🎁 Project</b></th>
-      <th><b>📝 Language</b></th>
+      <th><b>📝 Most Language</b></th>
     </tr>
   </thead>
   <tbody>
