@@ -62,7 +62,7 @@
       <td>HTML</td>
     </tr>
     <td><a href="https://github.com/AmelMansour/CoDit2026" target="_blank">CoDit2026</a></td>
-      <td>Python</td>
+      <td>Jupyter Notebook</td>
     </tr>
   </tbody>
 </table>
