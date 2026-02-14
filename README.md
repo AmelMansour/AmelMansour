@@ -61,6 +61,9 @@
       <td><a href="https://github.com/AmelMansour/Sequence-Alignment-Web-Interface" target="_blank">Sequence Alignment Web Interface</a></td>
       <td>HTML</td>
     </tr>
+    <td><a href="https://github.com/AmelMansour/CoDit2026" target="_blank">CoDit2026</a></td>
+      <td>Python</td>
+    </tr>
   </tbody>
 </table>
 
